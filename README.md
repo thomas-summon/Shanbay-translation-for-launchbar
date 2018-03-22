@@ -1,7 +1,7 @@
 # Shanbay-translation-for-launchbar
 
 ## 介绍
-Shanbay Tranlation 是一个基于扇贝api的Launchbar快速查词软件。通过它，你可以在Launchbar的交互界面快速查询英文单词的中文翻译并直接将结果显示在界面上。
+Shanbay Tranlation 是一个基于扇贝api的Launchbar快速查词Action。通过它，你可以在Launchbar的交互界面快速查询英文单词的中文翻译并直接将结果显示在界面上。
 
 ## 依赖
 Shanbay Tranlation 的脚本文件是由Python3编写的，并使用了requests这个Python模块。所以，要正常使用 Shanbay Tranlation, 请先下载这两个依赖。
