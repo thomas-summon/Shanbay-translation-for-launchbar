@@ -23,7 +23,7 @@ Shanbay Tranlation 的脚本文件是由Python3编写的，并使用了requests�
 打开终端，输入以下指令下载`pip3 install requests`
 
 ## 安装
-* 点击[这里](https://github.com/Thomas4949/Shanbay-translation-for-launchbar/blob/master/Shanbay_Translation.lbaction.zip)下载 Shanbay Tranlation 的压缩文件。
+* 点击[这里](https://github.com/Thomas4949/Shanbay-translation-for-launchbar/raw/master/Shanbay_Translation.lbaction.zip)下载 Shanbay Tranlation 的压缩文件。
 * 解压缩
 * 双击解压文件，Launchbar会自动识别并安装。
 
